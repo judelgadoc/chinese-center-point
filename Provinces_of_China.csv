@@ -1,0 +1,58 @@
+GB/T 2260-2007,ISO,Province,name,Capital,Population,Density (per km2),Area (km2),Abbreviation
+HE,CN-HE,Hebei,河北省,Shijiazhuang,74610235,393.08,189809,"冀
+Jì"
+SX,CN-SX,Shanxi,山西省,Taiyuan,34915616,222.8,156713,"晋
+Jìn"
+LN,CN-LN,Liaoning,辽宁省,Shenyang,42591407,289.59,147076,"辽
+Liáo"
+JL,CN-JL,Jilin,吉林省,Changchun,24073453,126.51,190282,"吉
+Jí"
+HL,CN-HL,Heilongjiang,黑龙江省,Harbin,31850088,67.37,472766,"黑
+Hēi"
+JS,CN-JS,Jiangsu,江苏省,Nanjing,84748016,847.91,99949,"苏
+Sū"
+ZJ,CN-ZJ,Zhejiang,浙江省,Hangzhou,64567588,615.67,104873,"浙
+Zhè"
+AH,CN-AH,Anhui,安徽省,Hefei,61027171,436.29,139879,"皖  
+Wǎn"
+FJ,CN-FJ,Fujian,福建省,Fuzhou,41540086,335.66,123756,"闽  
+Mǐn"
+JX,CN-JX,Jiangxi,江西省,Nanchang,45188635,270.69,166939,"赣
+Gàn"
+SD,CN-SD,Shandong,山东省,Jinan,101527453,643.78,157704,"鲁
+Lǔ"
+HA,CN-HA,Henan,河南省,Zhengzhou,99365519,600.52,165467,"豫
+Yù"
+HB,CN-HB,Hubei,湖北省,Wuhan,57752557,310.87,185776,"鄂
+È"
+HN,CN-HN,Hunan,湖南省,Changsha,66444864,313.65,211842,"湘
+Xiāng"
+GD,CN-GD,Guangdong,广东省,Guangzhou,126012510,700.02,180013,"粤  
+Yuè"
+HI,CN-HI,Hainan,海南省,Haikou,10081232,294.27,34259,"琼
+Qióng"
+SC,CN-SC,Sichuan,四川省,Chengdu,83674866,174.93,484056,"川(蜀)
+Chuān (Shǔ)"
+GZ,CN-GZ,Guizhou,贵州省,Guiyang,38562148,218.93,176140,"贵(黔)
+Guì (Qián)"
+YN,CN-YN,Yunnan,云南省,Kunming,47209277,123.2,383195,"云(滇)
+Yún (Diān)"
+SN,CN-SN,Shaanxi,陕西省,Xi'an,39528999,192.24,205624,"陕(秦)
+Shǎn (Qín)"
+GS,CN-GS,Gansu,甘肃省,Lanzhou,25019831,54.7,457382,"甘(陇)
+Gān (Lǒng)"
+QH,CN-QH,Qinghai,青海省,Xining,5923957,8.58,690355,"青
+Qīng"
+TW,CN-TW,Taiwan,台湾省,Taipei,23162123,650.97,36161,"台(臺)
+Tái"
+HK,CN-HK,Hong Kong,香港特别行政区,,71840000,,1104.4,港 (Gǎng)
+,,Macau,澳门特别行政区,,614500,,,
+,,Guangxi,广西壮族自治区,,50126804,,,
+,,Inner Mongolia,内蒙古自治区,,24049155,,,
+,,Ningxia,宁夏回族自治区,,7202654,,,
+,,Tibet,西藏自治区,,3648100,,,
+,,Xinjiang,新疆维吾尔自治区,,25852345,,,
+,,Beijing,北京市,,18960744,,,
+,,Shanghai,上海市,,21909814,,,
+,,Tianjin,天津市,,11052404,,,
+,,Chongqing,重庆市,,9580819,,,
